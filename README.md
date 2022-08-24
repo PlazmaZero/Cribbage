@@ -3,7 +3,7 @@
 It is complicated game. There are two parts to each round (play and show) and eight different scoring options. It is played with the standard deck of cards, and the player only knows the five to ten cards in their own hand. This makes it an optimal game for a computer to play. 
 
 ## Play the Game
-The game can be played [here](). Hit the "start" button at the top. You can select from playing a real game or just drilling card selections. The game rules are fairly long, so I included another markdown file in the Github, called [RULES.md]().
+The game can be played [here](https://onlinegdb.com/NT7I4K1ST). Hit the "start" button at the top. You can select from playing a real game or just drilling card selections. The game rules are fairly long, so I included another markdown file in the Github, called [RULES.md](https://github.com/PlazmaZero/Cribbage/blob/main/RULES.md).
 
 ## The Inspiration
 
